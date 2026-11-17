@@ -2,6 +2,11 @@
 
 Petites automatisations du quotidien.
 
+| Automatisation | Pour qui | Où ça tourne |
+|---|---|---|
+| [1. Récap quotidien de ma journée](#1-récapitulatif-quotidien-de-la-journée-par-e-mail) | Moi | GitHub Actions + Gmail |
+| [2. Récap hebdo des agendas des collègues](recap_hebdo_entreprise/GUIDE.md) | Utilisateurs en entreprise, sans droits admin | Power Automate (Microsoft 365) |
+
 ## 1. Récapitulatif quotidien de la journée par e-mail
 
 Chaque matin, un mail récapitule les cours, réunions et rendez-vous de la journée
