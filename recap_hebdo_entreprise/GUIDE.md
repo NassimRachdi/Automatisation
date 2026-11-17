@@ -35,6 +35,17 @@ d'être modifié.
 
 ## Étape 1 — Les collègues partagent leur calendrier
 
+> **En clair, avec un exemple.** Toi (*alex@entreprise.fr*) crées le flux : c'est donc
+> **ton** compte qui est le compte du flux. Tu veux recevoir l'agenda de *Julie*
+> (*julie@entreprise.fr*). Alors :
+> 1. **Julie** partage son calendrier avec **alex@entreprise.fr**, en « Peut afficher tous les détails ».
+> 2. **Toi**, tu acceptes l'invitation reçue par mail. Le calendrier de Julie apparaît dans ton
+>    Outlook : vérifie que tu vois bien les titres de ses rendez-vous, pas seulement « Occupé ».
+> 3. Dans l'Excel : `Destinataire` = alex@entreprise.fr, `Prenom` = Alex, `Collegues` = julie@entreprise.fr.
+>
+> Plus tard, si *Marc* veut aussi recevoir l'agenda de Julie, Julie n'a rien de plus à faire :
+> elle a déjà partagé avec le compte du flux. Tu ajoutes simplement une ligne pour Marc dans l'Excel.
+
 Chaque collègue **suivi par au moins une personne** doit partager son calendrier avec
 le compte du flux, une seule fois :
 
